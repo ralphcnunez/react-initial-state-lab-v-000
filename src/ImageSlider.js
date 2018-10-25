@@ -1,8 +1,7 @@
 // your ImageSlider code here!
 
-import React, { Component } from 'react';
-import React, {Component} from 'react'
 
- export default class ImageSlider extends Component {
-
- 
+import React, {Component} from 'react';
+export default class ImageSlider extends Component {
+render ()
+}
