@@ -7,5 +7,4 @@ import React, { Component } from 'react';
   render() {
     return <h1>Hello, {this.props.name}</h1>;
   }
- }
  
