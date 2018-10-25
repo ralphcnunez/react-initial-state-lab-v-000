@@ -2,7 +2,7 @@
 
 import React, { Component } from 'react';
 
- export default class Cell extends Component {
+ export default class ImageSlider extends Component {
  
    
  }
